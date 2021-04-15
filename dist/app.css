@@ -1,4 +1,13 @@
 body {
-  background-color: red;
+  background-color: coral;
   padding: 0;
+}
+
+h1 {
+  color: lightgreen;
+}
+
+button {
+  color: blue;
+  padding: 10px;
 }

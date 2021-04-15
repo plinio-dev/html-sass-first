@@ -1,4 +1,19 @@
+
+$colore-primario: coral;
+$colore-secondario: lightgreen;
+$padding-btn: 10px;
+$colore-testo: blue;
+
 body {
-  background-color: red;
+  background-color: $colore-primario;
   padding: 0;
+}
+
+h1 {
+  color: $colore-secondario;
+}
+
+button {
+  color: $colore-testo;
+  padding: $padding-btn;
 }
